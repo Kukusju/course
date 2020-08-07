@@ -13,7 +13,7 @@ const personalMovieDB = {
     movies: {}, 
     actors: "", 
     genres: [],
-    privat: false,
+    privat: false
 };
 
 personalMovieDB.movies[lastFilm1] = yourAssessment1;
